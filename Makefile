@@ -1,3 +1,3 @@
 
-test: 	main.py
-	      ./main.py
+test: 	python3 main.py
+	main.py
